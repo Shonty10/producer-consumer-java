@@ -1,4 +1,4 @@
-# Assignment 1: Producer-Consumer System
+# Assignment: Producer-Consumer System
 
 ## Overview
 Thread-safe producer-consumer implementation demonstrating:
